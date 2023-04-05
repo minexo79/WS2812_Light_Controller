@@ -1,5 +1,5 @@
 # WS2812 Light Controller
-
+Custom WS2812 Controller Using Arduino And Python.
 ![](./Image/banner.png)
 
 # Hardware
@@ -30,3 +30,6 @@ python src/main.py
 
 # System Structure
 ![](./Image/flow.png)
+
+# Licences
+This Project Use [Beerware Licences.](https://en.wikipedia.org/wiki/Beerware)
